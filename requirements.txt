@@ -1,0 +1,9 @@
+treelib==1.5.1
+numpy==1.13.3
+pandas==0.20.1
+tornado==4.5.1
+beautifulsoup4==4.6.0
+scikit_learn==0.19.1
+pyyaml==3.11
+python-crfsuite==0.9.5
+sklearn-crfsuite==0.3.6
